@@ -1,0 +1,10 @@
+.para {
+  background-color: hsl(39, 77%, 83%);
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.App {
+  background-color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
